@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/facedetection/build/
+/facemesh/build/
+/hands/build/
+/hands/build/intermediates/javac/debug/classes/
